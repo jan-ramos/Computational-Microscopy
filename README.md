@@ -5,4 +5,6 @@
 the lead time for graduate researchers;
 
 • Application accurately segments the nuclei in immunofluorescent pancreatic cells and draws contours
-around them which is used to calculate the cell mass and cell count of each image.
+around them which is used to calculate the cell mass and cell count of each image;
+
+• Included in this repository are the Python source code and sample immunofluorescence-stained images.
